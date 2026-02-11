@@ -41,3 +41,4 @@ C:\Users\YOUSRA\Projet-CSharp\Projet-CSharp\obj\Debug\Projet-CSharp.csproj.CoreC
 C:\Users\YOUSRA\Projet-CSharp\Projet-CSharp\obj\Debug\Projet-C.6ED8CAC4.Up2Date
 C:\Users\YOUSRA\Projet-CSharp\Projet-CSharp\obj\Debug\Projet-CSharp.exe
 C:\Users\YOUSRA\Projet-CSharp\Projet-CSharp\obj\Debug\Projet-CSharp.pdb
+C:\Users\YOUSRA\Projet-CSharp\Projet-CSharp\obj\Debug\Projet-CSharp.exe.config
