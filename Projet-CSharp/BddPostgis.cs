@@ -17,19 +17,14 @@ namespace Projet_CSharp
 
             public List<DxfPoint> GetPoints()
             {
+            // Lecture des Points
                 List<DxfPoint> points = new List<DxfPoint>();
 
                 using (NpgsqlConnection conn = new NpgsqlConnection(connectionString))
                 {
                     conn.Open();
-
-                    string sql = @"
-            SELECT 
-                id,
-                ST_X(geom) AS x,
-                ST_Y(geom) AS y
-            FROM point__dxf;
-        ";
+                     //Lire les points aprtir de bdd et lenvoi vers le dessin
+                    string sql = @" SELECT id, ST_X(geom) AS x, ST_Y(geom) AS y FROM  point__dxf; ";
 
                     using (NpgsqlCommand cmd = new NpgsqlCommand(sql, conn))
                     using (NpgsqlDataReader reader = cmd.ExecuteReader())
@@ -49,16 +44,16 @@ namespace Projet_CSharp
 
             }
 
-            public void InsertPoint(DxfPoint p)
+        public void InsertPoints(List<DxfPoint> points)
+        {
+            using (NpgsqlConnection conn = new NpgsqlConnection(connectionString))
             {
-                using (NpgsqlConnection conn = new NpgsqlConnection(connectionString))
-                {
-                    conn.Open();
+                conn.Open();
 
-                    string sql = @"
-            INSERT INTO point_dxf (geom)
-            VALUES (ST_SetSRID(ST_MakePoint(@x, @y), 4326));
-        ";
+                foreach (var p in points)
+                {
+                    string sql = @"INSERT INTO point__dxf (geom)
+                           VALUES (ST_SetSRID(ST_MakePoint(@x, @y), 4326));";
 
                     using (NpgsqlCommand cmd = new NpgsqlCommand(sql, conn))
                     {
@@ -68,7 +63,9 @@ namespace Projet_CSharp
                     }
                 }
             }
-
         }
+        
+
+    }
     }
 

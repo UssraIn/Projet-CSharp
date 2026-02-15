@@ -96,6 +96,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BddPostgis.cs" />
+    <Compile Include="Modeles\Ouvrage.cs" />
+    <Compile Include="Modeles\Profil.cs" />
+    <Compile Include="Modeles\ProfilPoint.cs" />
     <Compile Include="TextManager.cs" />
     <Compile Include="DxfText.cs" />
     <Compile Include="DXFReader.cs" />

@@ -28,21 +28,21 @@ namespace Projet_CSharp
                     {
                         case DxfPoint point:
                             dxf.Append(point.ToDxf());
-                            break;
+                        break;
 
 
                         case DxfLine line:
                             dxf.Append(line.ToDxf());
-                            break;
+                        break;
 
 
                         case DxfText text:
                             dxf.Append(text.ToDxf());
-                            break;
+                        break;
 
-                        // case DxfPolyline Polyline:
-                        //dxf.Append(Polyline.ToDxf());
-                        //break;
+                         case DxfPolyline Polyline:
+                        dxf.Append(Polyline.ToDxf());
+                        break;
 
 
                         case DxfCircle Circle:
@@ -51,7 +51,7 @@ namespace Projet_CSharp
 
                         case DxfArc Arc:
                             dxf.Append(Arc.ToDxf());
-                            break;
+                        break;
 
 
 
@@ -61,5 +61,5 @@ namespace Projet_CSharp
                 dxf.Append("0\nENDSEC\n0\nEOF");
                 File.WriteAllText(Path, dxf.ToString());
             }
-        }
     }
+}

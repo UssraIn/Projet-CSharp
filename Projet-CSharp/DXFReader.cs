@@ -10,38 +10,70 @@ namespace Projet_CSharp
 {
     internal class DXFReader
     {
-    
+        /**  public List<DxfPoint> ReadPoints(string filePath)
+         {
+         List<DxfPoint> points = new List<DxfPoint>();
 
-            public List<DxfPoint> ReadPoints(string filePath)
+         string[] lines = File.ReadAllLines(filePath);
+         double x = 0, y = 0;
+         bool isPoint = false;
+
+         for (int i = 0; i < lines.Length; i++)
+         {
+             if (lines[i] == "0" && lines[i + 1] == "POINT")
+             {
+                 isPoint = true;
+             }
+
+             if (isPoint && lines[i] == "10")
+             {
+                 x = double.Parse(lines[i + 1], CultureInfo.InvariantCulture);
+             }
+
+             if (isPoint && lines[i] == "20")
+             {
+                 y = double.Parse(lines[i + 1], CultureInfo.InvariantCulture);
+                 points.Add(new DxfPoint(x, y));
+                 isPoint = false;
+             }
+         }
+
+         return points;
+         } **/
+
+        public List<DxfPoint> ReadPoints(string filePath)
         {
             List<DxfPoint> points = new List<DxfPoint>();
 
             string[] lines = File.ReadAllLines(filePath);
+            bool isPointEntity = false;
             double x = 0, y = 0;
-            bool isPoint = false;
 
-            for (int i = 0; i < lines.Length; i++)
+            for (int i = 0; i < lines.Length - 1; i++)
             {
-                if (lines[i] == "0" && lines[i + 1] == "POINT")
+                string line = lines[i].Trim();
+
+                // Détection d'une entité POINT
+                if (line == "0" && lines[i + 1].Trim() == "POINT")
                 {
-                    isPoint = true;
+                    isPointEntity = true;
                 }
 
-                if (isPoint && lines[i] == "10")
+                if (isPointEntity && line == "10")
                 {
                     x = double.Parse(lines[i + 1], CultureInfo.InvariantCulture);
                 }
 
-                if (isPoint && lines[i] == "20")
+                if (isPointEntity && line == "20")
                 {
                     y = double.Parse(lines[i + 1], CultureInfo.InvariantCulture);
                     points.Add(new DxfPoint(x, y));
-                    isPoint = false;
+                    isPointEntity = false;
                 }
             }
 
             return points;
         }
-        }
     }
+}
 

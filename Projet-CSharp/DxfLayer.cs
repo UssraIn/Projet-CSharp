@@ -19,6 +19,6 @@ namespace Projet_CSharp
                 return "0\nLAYER\n2\n" + Name + "\n70\n0\n";
             }
 
-        }
     }
+}
 

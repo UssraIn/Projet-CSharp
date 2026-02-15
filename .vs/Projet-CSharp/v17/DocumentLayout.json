@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\YOUSRA\\Projet-CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|c:\\users\\yousra\\projet-csharp\\projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\bddpostgis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\bddpostgis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\customdxfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\customdxfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\drawingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\drawingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\customdxfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\customdxfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +39,44 @@
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|c:\\users\\yousra\\projet-csharp\\projet-csharp\\dxfpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxftext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxftext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfarc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\dxfpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\dxfpolyline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\modeles\\ouvrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\modeles\\ouvrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\modeles\\profilpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\modeles\\profilpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|C:\\Users\\YOUSRA\\Projet-CSharp\\projet-csharp\\modeles\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9BE802-8901-4C7D-999C-11B814134050}|Projet-CSharp\\Projet-CSharp.csproj|solutionrelative:projet-csharp\\modeles\\profil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,68 +110,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Form1.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\Form1.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Form1.cs",
-              "RelativeToolTip": "Projet-CSharp\\Form1.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAwwIcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "DxfCircle.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfCircle.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\DxfCircle.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfCircle.cs",
+              "RelativeToolTip": "Projet-CSharp\\DxfCircle.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:19:08.663Z",
+              "WhenOpened": "2026-02-10T23:01:39.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DxfArc.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfArc.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\DxfArc.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfArc.cs",
-              "RelativeToolTip": "Projet-CSharp\\DxfArc.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:01:30.247Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DrawingBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DrawingBuilder.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\DrawingBuilder.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DrawingBuilder.cs",
-              "RelativeToolTip": "Projet-CSharp\\DrawingBuilder.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T22:54:40.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CustomDxfDocument.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\CustomDxfDocument.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\CustomDxfDocument.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\CustomDxfDocument.cs",
-              "RelativeToolTip": "Projet-CSharp\\CustomDxfDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T22:54:29.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BddPostgis.cs",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\BddPostgis.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\BddPostgis.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\BddPostgis.cs",
               "RelativeToolTip": "Projet-CSharp\\BddPostgis.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwD8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T22:54:17.999Z"
+              "WhenOpened": "2026-02-10T22:54:17.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "CustomDxfDocument.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\CustomDxfDocument.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\CustomDxfDocument.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\CustomDxfDocument.cs",
+              "RelativeToolTip": "Projet-CSharp\\CustomDxfDocument.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAAABIBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:54:29.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrawingBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DrawingBuilder.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\DrawingBuilder.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DrawingBuilder.cs",
+              "RelativeToolTip": "Projet-CSharp\\DrawingBuilder.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T22:54:40.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Form1.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\Form1.cs",
@@ -167,75 +174,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DxfCircle.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfCircle.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\DxfCircle.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfCircle.cs",
-              "RelativeToolTip": "Projet-CSharp\\DxfCircle.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Form1.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\Form1.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Form1.cs",
+              "RelativeToolTip": "Projet-CSharp\\Form1.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAOoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:01:39.297Z"
+              "WhenOpened": "2026-02-10T23:19:08.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DxfDocument.cs",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfDocument.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\DxfDocument.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfDocument.cs",
               "RelativeToolTip": "Projet-CSharp\\DxfDocument.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAD8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:01:50.385Z"
+              "WhenOpened": "2026-02-10T23:01:50.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DxfLayer.cs",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfLayer.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\DxfLayer.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfLayer.cs",
               "RelativeToolTip": "Projet-CSharp\\DxfLayer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:02:09.781Z"
+              "WhenOpened": "2026-02-10T23:02:09.781Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DxfLine.cs",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfLine.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\DxfLine.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfLine.cs",
               "RelativeToolTip": "Projet-CSharp\\DxfLine.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:08:21.461Z"
+              "WhenOpened": "2026-02-10T23:08:21.461Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "DxfPoint.cs",
               "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPoint.cs",
               "RelativeDocumentMoniker": "Projet-CSharp\\DxfPoint.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPoint.cs",
               "RelativeToolTip": "Projet-CSharp\\DxfPoint.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:08:33.242Z"
+              "WhenOpened": "2026-02-10T23:08:33.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DxfText.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfText.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\DxfText.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfText.cs",
+              "RelativeToolTip": "Projet-CSharp\\DxfText.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T23:14:47.111Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "DxfPolyline.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPolyline.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\DxfPolyline.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPolyline.cs",
-              "RelativeToolTip": "Projet-CSharp\\DxfPolyline.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Title": "DxfArc.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfArc.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\DxfArc.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfArc.cs",
+              "RelativeToolTip": "Projet-CSharp\\DxfArc.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:08:43.666Z"
+              "WhenOpened": "2026-02-10T23:01:30.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -245,21 +271,23 @@
               "RelativeDocumentMoniker": "Projet-CSharp\\DXFReader.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DXFReader.cs",
               "RelativeToolTip": "Projet-CSharp\\DXFReader.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:12:25.726Z"
+              "WhenOpened": "2026-02-10T23:12:25.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "DxfText.cs",
-              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfText.cs",
-              "RelativeDocumentMoniker": "Projet-CSharp\\DxfText.cs",
-              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfText.cs",
-              "RelativeToolTip": "Projet-CSharp\\DxfText.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "DxfPolyline.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPolyline.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\DxfPolyline.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\DxfPolyline.cs",
+              "RelativeToolTip": "Projet-CSharp\\DxfPolyline.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:14:47.111Z"
+              "WhenOpened": "2026-02-10T23:08:43.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,9 +297,58 @@
               "RelativeDocumentMoniker": "Projet-CSharp\\TextManager.cs",
               "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\TextManager.cs",
               "RelativeToolTip": "Projet-CSharp\\TextManager.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T23:16:05.808Z"
+              "WhenOpened": "2026-02-10T23:16:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Program.cs",
+              "RelativeToolTip": "Projet-CSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T20:12:06.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ouvrage.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\Ouvrage.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\Modeles\\Ouvrage.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\Ouvrage.cs",
+              "RelativeToolTip": "Projet-CSharp\\Modeles\\Ouvrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:51:16.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProfilPoint.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\ProfilPoint.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\Modeles\\ProfilPoint.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\ProfilPoint.cs",
+              "RelativeToolTip": "Projet-CSharp\\Modeles\\ProfilPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:44:49.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profil.cs",
+              "DocumentMoniker": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\Profil.cs",
+              "RelativeDocumentMoniker": "Projet-CSharp\\Modeles\\Profil.cs",
+              "ToolTip": "C:\\Users\\YOUSRA\\Projet-CSharp\\Projet-CSharp\\Modeles\\Profil.cs",
+              "RelativeToolTip": "Projet-CSharp\\Modeles\\Profil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:39:36.939Z"
             }
           ]
         }

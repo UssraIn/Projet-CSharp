@@ -8,8 +8,6 @@ namespace Projet_CSharp
 {
     internal class DrawingBuilder
     {
-   
-
             private List<DxfPoint> points = new List<DxfPoint>();
 
             // Ajouter un point depuis la BDD
@@ -17,6 +15,7 @@ namespace Projet_CSharp
             {
                 points.Add(new DxfPoint(x, y));
             }
+
 
 
             public CustomDxfDocument BuildDrawing()
@@ -205,36 +204,61 @@ namespace Projet_CSharp
                     doc.AddPoint(p);
                 }
 
+                for (int i = 0 ; i< points.Count - 1; i++)
+                {
+                var p1 = points[i];
+                var p2 = points[i + 1];
+                doc.AddLine(p1, p2);
+                }
 
-                //LES POINTS DE BDDD
-                /**  if (points.Count > 0)
+                // Tracer un ligne entre la 1 ere point et la dernier point
+
+                // X = 0 
+                  var p0 = points[0];
+                  var p0Y = new DxfPoint(0, p0.Y);
+                  doc.AddPoint(p0Y);
+                  doc.AddLine(p0Y, p0);
+
+                 // Y = 0  
+               var pLast = points[points.Count - 1];
+               var pLastX = new DxfPoint(pLast.X, 0);
+                   doc.AddPoint(pLastX);
+                   doc.AddLine(pLast, pLastX);
+
+
+
+              return doc;
+
+
+            //LES POINTS DE BDDD
+            /**  if (points.Count > 0)
+              {
+                  double minX = points.Min(p => p.X);
+                  double minY = points.Min(p => p.Y);
+
+                  foreach (var p in points)
                   {
-                      double minX = points.Min(p => p.X);
-                      double minY = points.Min(p => p.Y);
-
-                      foreach (var p in points)
-                      {
-                          // Décalage pour les rendre visibles
-                          doc.AddPoint(new DxfPoint(
-                              p.X - minX,
-                              p.Y - minY
-                          ));
-                      }
-                  }***/
-
-
-                return doc;
+                      // Décalage pour les rendre visibles
+                      doc.AddPoint(new DxfPoint(
+                          p.X - minX,
+                          p.Y - minY
+                      ));
+                  }
+              }***/
 
 
 
 
-            }
+
 
 
         }
 
 
-
     }
+
+
+
+}
 
 

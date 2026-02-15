@@ -10,7 +10,7 @@ namespace Projet_CSharp
     {
          
 
-            public int Id { get; set; }   // ✅ ajouté
+            public int? Id { get; set; }   // Nullable ->optionnel
             public double X { get; set; }
             public double Y { get; set; }
 
