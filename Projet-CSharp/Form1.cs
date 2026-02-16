@@ -216,11 +216,11 @@ namespace Projet_CSharp
                     return;
                 }
                 var builder = new DrawingBuilder();
-                //CustomDxfDocument doc = new CustomDxfDocument();
+                 
 
                 foreach (var p in points)
                 {
-                    // doc.Points.Add(p);
+                    
                    builder.AddPoint(p.X, p.Y);
 
                 }

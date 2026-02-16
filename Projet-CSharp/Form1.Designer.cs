@@ -54,7 +54,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(192, 50);
             this.button2.TabIndex = 1;
-            this.button2.Text = "Export";
+            this.button2.Text = " Import";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -73,9 +73,9 @@
             this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Location = new System.Drawing.Point(167, 173);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(193, 45);
+            this.button3.Size = new System.Drawing.Size(193, 50);
             this.button3.TabIndex = 3;
-            this.button3.Text = "Creat dxf (Import)";
+            this.button3.Text = "Creat dxf (Export)";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
